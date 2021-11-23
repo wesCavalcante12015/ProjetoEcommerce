@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 8,
+            "title": "Font - Cooler Master MWE 600W 80 Plus Bronze ",
+            "price": 850,
+            "image": "./images/fonte.png"
+        },
+        {
+            "id": 2,
+            "title": "Gabinete Cooler Master MasterCase SL600M MCM-SL600M-SGNN-S00",
+            "price": 2199,
+            "image": "./images/gabinete.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mouse Gamer Cooler Master MM711 Black Matte RGB Ultraleve Sensor PixArt",
+            "price": 389,
+            "image": "./images/mouse.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Placa gráfica GIGABYTE Radeon RX 5600 XT Gaming OC 6G, PCIe 4.0, 6GB 192 bits GDDR6",
+            "price": 999,
+            "image": "./images/placa-de-video.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Placa-Mãe Gigabyte H310M M.2 2.0, Intel LGA 1151, mATX, DDR4",
+            "price": 250,
+            "image": "./images/placa-mae.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "PROCESSADOR INTEL CORE I3-9100F QUAD-CORE 3.6GHZ (4.2GHZ) 6MB CACHE LGA1151",
+            "price": 850,
+            "image": "./images/processador.png"
+
+        },
+        {
+            "id": 7,
+            "title": "Memória HyperX Fury, 4GB, 3000MHz, DDR4, CL15, Preto - HX430C15FB3/4",
+            "price": 250,
+            "image": "./images/ram.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Teclado Mecanico Gamer Cooler Master MK110 LED RGB USB - MK-110-KKMF1-BR",
+            "price": 310,
+            "image": "./images/teclado.jpg"
+        }
+    ]
+}
